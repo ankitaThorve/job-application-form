@@ -34,6 +34,6 @@ Check out the live version [here](https://ankitathorve.github.io/job-application
 
 ## 🛠 How to Use
 
-1. **Clone the Repository**
+**Clone the Repository**
    ```bash
    git clone (https://ankitathorve.github.io/job-application-form/)
